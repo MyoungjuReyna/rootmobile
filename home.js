@@ -1,0 +1,1 @@
+document.getElementById("screenprint").innerHTML = 'OH HIHIHI MY NAME IS..';
